@@ -3,3 +3,4 @@ houses
 water well
 fruit garden
 farm
+trees
